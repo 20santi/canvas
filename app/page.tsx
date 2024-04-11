@@ -39,7 +39,7 @@ export default function Home() {
       <canvas
         onMouseDown={onMouseDown}
         ref={canvasRef}
-        width={750}
+        width={1300}
         height={750}
         className="border border-black rounded-md"
       />
